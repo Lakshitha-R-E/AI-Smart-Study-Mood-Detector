@@ -1,4 +1,4 @@
-# 🎧📚 AI Study Mood Detection
+# 🎧📚 AI Study Mood Detector
 
 An AI-powered application that detects a user's **study mood** from text input and provides insights or recommendations accordingly. This project is designed as a **mini project** to demonstrate the use of **Machine Learning, NLP, and Streamlit**.
 
@@ -32,7 +32,7 @@ The application is simple, interactive, and beginner-friendly.
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/Lakshitha-R-E/AI-Smart-Study-Mood-Detection
+git clone https://github.com/Lakshitha-R-E/AI-Smart-Study-Mood-Detector
 cd AI Smart Study Mood Detection
 
 ### 2️⃣ Install dependencies
@@ -92,6 +92,7 @@ IT Student | AI & Web Development Enthusiast
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to fork or contribute!
+
 
 
 
