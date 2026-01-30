@@ -28,19 +28,6 @@ The application is simple, interactive, and beginner-friendly.
 * **Pandas & NumPy** (Data handling)
 * **Streamlit** (Web interface)
 
-## 📂 Project Structure
-
-ai-study-mood-detection/
-│
-├── train_model.py        # Trains the ML model
-├── app.py                # Streamlit web app
-├── dataset.csv           # Training dataset
-├── mood_model.pkl        # Trained model
-├── vectorizer.pkl        # Saved TF-IDF vectorizer
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
-
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -105,5 +92,6 @@ IT Student | AI & Web Development Enthusiast
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to fork or contribute!
+
 
 
